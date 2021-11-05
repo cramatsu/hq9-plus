@@ -40,5 +40,5 @@ class Interpreter:
                         'Go to the store and buy some more, 99 bottles of beer on the wall.')
 
     def start_handling(self):
-        command = input(str('Command: '))
+        command = input('Command: ')
         self.exec_command(command)
