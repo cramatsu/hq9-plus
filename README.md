@@ -20,8 +20,8 @@
 - 2.Q - Prints entered text
 - 3.9 - Prints the lyrics of 99 Bottles of Beer
 - 4.+ - Increases by one the counter, which cannot be used in any other way
-- 5. help - Prints all commands
-- 6. exit - Do I need to explain?
+  - 5.help - Prints all commands
+  - 6.exit - Do I need to explain?
 
 
 
