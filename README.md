@@ -23,5 +23,5 @@
   - 5.help - Prints all commands
   - 6.exit - Do I need to explain?
 
-
+Ps. Уходите с этого языка, пока не поздно...
 
